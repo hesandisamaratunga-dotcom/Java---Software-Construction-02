@@ -12,7 +12,6 @@ sample output:
 12 players per team with 3 player(s) remaining.
 
  */
-
 package FirstAppPackage;
 
 public class TeamPlayers {
